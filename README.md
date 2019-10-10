@@ -18,4 +18,4 @@ JLM, yuanl@ccwcar.com
 
 ## License
 
-MJRxSwift is available under the MIT license. See the LICENSE file for more info.
+NeteaseiOS is available under the MIT license. See the LICENSE file for more info.
